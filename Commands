@@ -1,0 +1,20 @@
+# Django Setup Commands
+
+```bash
+# Create virtual environment
+py -m venv djangoworks
+
+# Activate virtual environment (Windows)
+djangoworks\Scripts\activate
+
+# Install Django
+pip install django
+
+# Create Django project
+django-admin startproject myproject
+
+# Go to project folder
+cd myproject
+
+# Run development server
+python manage.py runserver
