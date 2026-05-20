@@ -1,0 +1,18 @@
+## step 1:
+create app folder in the project -below command
+py manage.py start app (foldername)firstapp
+
+
+##step 2:
+create urls.py in the above app 
+-------------------
+from .imports views 
+from django.urls import path 
+[
+  path("welcome",views.helloworld,name="welcome")
+]
+
+##step:3
+
+
+
