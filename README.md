@@ -53,7 +53,7 @@ Compared to some other frameworks, Django offers an “all-in-one” experience.
 In conclusion, Django is a powerful framework because it combines speed, security, scalability, and simplicity. It helps developers build professional web applications efficiently while following good coding practices. Its strong community support, built-in tools, and Python foundation make it one of the best frameworks for backend web development. Whether someone is a beginner learning web development or an experienced developer building enterprise applications, Django provides the tools and flexibility needed for success. That is why Django continues to be one of the most respected and widely used web frameworks in the world.
 
 
-##Advantages of Django
+# Advantages of Django
 Here are few advantages of using Django which can be listed out here −
 
 * Object-Relational Mapping (ORM) Support − Django provides a bridge between the data model and the database engine, and supports a large set of database systems including MySQL, Oracle, Postgres, etc. Django also supports NoSQL database through Django-nonrel fork. For now, the only NoSQL databases supported are MongoDB and google app engine.
