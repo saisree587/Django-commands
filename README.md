@@ -65,3 +65,8 @@ Here are few advantages of using Django which can be listed out here −
 * Administration GUI − Django provides a nice ready-to-use user interface for administrative activities.
 
 * Development Environment − Django comes with a lightweight web server to facilitate end-to-end application development and testing.
+                                                   Client
+                                                    |
+                                                Controller
+                                                /       \
+                                           Model  <----  View
