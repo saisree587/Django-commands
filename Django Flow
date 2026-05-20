@@ -1,1 +1,12 @@
+## Step 1:
+When user requests a URL, It verifies url.py file calls the required function from view file.
 
+## step2:
+In the Views.py file required function GET model if requried and prepares the output and returns to template File.
+
+##step 3:
+Confrigure template will be called, and data will be presented to the user from template folder.
+-------------------------------------------------------------------------------------------------------------------
+### Django set up 
+ 1.Every Django project rus in virtual environment onlyyyyyy(venv).
+ 2.1st we need to create virtual environment (venv) then install the django . 
